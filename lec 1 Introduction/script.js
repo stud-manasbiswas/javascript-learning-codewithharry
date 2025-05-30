@@ -1,3 +1,5 @@
+// just a basic functionality
+
 alert("Hello World")
 
 console.log("code is running ...")
