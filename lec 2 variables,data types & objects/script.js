@@ -3,9 +3,10 @@ console.log("hey everyone , let's learn variables in js ")
 var a = 5;
 a= a+1; // this is allowed
 var b = 6;
-var c= "manas"
+var c= "manas";
 
 console.log(a + b + 10)
+console.log(c)
 console.log(typeof a , typeof b , typeof c)
 
 const a1= 6;
@@ -40,6 +41,7 @@ console.log(x,y,z,p ,q,r)
 console.log(typeof x, typeof y, typeof z, typeof p , typeof q, typeof r)
 
 // object is combinations of key value pair  
+//quizzz
 
 let student = {
     "name": "manas" ,
@@ -48,4 +50,4 @@ let student = {
 
 }
 
-console.log(o)
+console.log(student)
