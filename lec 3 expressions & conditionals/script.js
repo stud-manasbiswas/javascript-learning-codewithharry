@@ -13,12 +13,13 @@ console.log(age % grace)
 
 
 // if - else statements
-if(age != 18){
+if(age  != 18){
     console.log("you can drive")
 }
 else{
     console.log("you cannot drive")
 }
+
 
 // comments in javasript
 
