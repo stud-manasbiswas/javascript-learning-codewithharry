@@ -3,7 +3,7 @@ console.log(" study about strings")
 let a = "Harry"
 
 console.log(a);
-
+// accessing
 let n =  a.length;
 console.log(n);
 for(let i = 0 ; i < n ; i++){
@@ -27,3 +27,5 @@ console.log(b.replace("shiva","nam"));
 
 // concatinate 
 console.log(b.concat(a));
+
+// strings are immutable 
