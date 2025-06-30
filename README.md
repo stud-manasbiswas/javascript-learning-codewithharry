@@ -4,9 +4,6 @@ A beginner-friendly journey through JavaScript, built while following [CodeWithH
 This repo contains **practical examples**, **mini-projects**, and **concept-wise folders** covering the foundations of JavaScript.
 
 ---
-
-![Banner](https://raw.githubusercontent.com/stud-manasbiswas/javascript-learning-codewithharry/main/assets/banner.png)
-
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/stud-manasbiswas/javascript-learning-codewithharry?color=blue" />
   <img src="https://img.shields.io/github/last-commit/stud-manasbiswas/javascript-learning-codewithharry?color=green" />
