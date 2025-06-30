@@ -8,7 +8,7 @@ This repo contains **practical examples**, **mini-projects**, and **concept-wise
   <img src="https://img.shields.io/github/repo-size/stud-manasbiswas/javascript-learning-codewithharry?color=blue" />
   <img src="https://img.shields.io/github/last-commit/stud-manasbiswas/javascript-learning-codewithharry?color=green" />
   <img src="https://img.shields.io/github/languages/top/stud-manasbiswas/javascript-learning-codewithharry?color=yellow" />
-  <img src="https://img.shields.io/github/license/stud-manasbiswas/javascript-learning-codewithharry" />
+  
 </p>
 
 ---
